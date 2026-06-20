@@ -10,7 +10,7 @@ Agente de IA que permite analizar datasets CSV mediante preguntas en lenguaje na
 ---
 
 ## Demo
-[Agregar link al video demo]
+https://youtu.be/F4ePudSIDq8
 
 ---
 
@@ -75,11 +75,9 @@ El agente usa el patrón de **tool use** de Claude: en lugar de responder direct
 
 ## Capturas
 
-> Agregar screenshots aquí una vez desplegado.
-
-| Vista principal | Gráfico generado |
-|-----------------|-----------------|
-| `screenshot-1.png` | `screenshot-2.png` |
+| Tabla de productos | Gráfico de barras | Gráfico de dispersión |
+|--------------------|-------------------|-----------------------|
+| ![Tabla de productos](images/tabla-productos.png) | ![Gráfico de barras](images/grafico-barras.png) | ![Gráfico de dispersión](images/grafico-dispersion.png) |
 
 ---
 
