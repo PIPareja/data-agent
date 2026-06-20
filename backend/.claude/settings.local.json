@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(claude-api)",
+      "Bash(pip install *)",
+      "Bash(uvicorn main:app --reload)",
+      "Bash(python -m uvicorn main:app --reload)",
+      "Bash(taskkill *)",
+      "PowerShell(Stop-Process *)",
+      "Bash(ping *)"
+    ]
+  }
+}

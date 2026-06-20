@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+anthropic
+matplotlib
+seaborn
+python-multipart
+openpyxl
+python-dotenv
