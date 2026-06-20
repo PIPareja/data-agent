@@ -10,7 +10,7 @@ Agente de IA que permite analizar datasets CSV mediante preguntas en lenguaje na
 ---
 
 ## Demo
-https://youtu.be/F4ePudSIDq8
+[![Demo del proyecto](https://img.youtube.com/vi/F4ePudSIDq8/maxresdefault.jpg)](https://youtu.be/F4ePudSIDq8)
 
 ---
 
